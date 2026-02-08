@@ -12,8 +12,8 @@ env:
   CUSTOM_CMDS : "CLANG_TRIPLE=aarch64-linux-gnu-"
   EXTRA_CMDS : "LD=ld.lld"
 
-  KERNEL_SOURCE : "https://github.com/SO-TS/android_kernel_xiaomi_sm8250"
-  KERNEL_BRANCH : "android16-aptusitu"
+  KERNEL_SOURCE : "https://github.com/Satoru1209/android_kernel_xiaomi_sm8250"
+  KERNEL_BRANCH : "lineage-23.2"
 
   CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b.git"
   CLANG_BRANCH : "lineage-20.0"
